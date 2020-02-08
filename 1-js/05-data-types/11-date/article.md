@@ -2,6 +2,8 @@
 
 Let's meet a new built-in object: [Date](mdn:js/Date). It stores the date, time and provides methods for date/time management.
 
+Mari temui sebuah objek built-in baru: [Date](mdn:js/Date). Objek ini menyimpan tanggal, waktu dan menyediakan metode for mengella tanggal/waktu.
+
 For instance, we can use it to store creation/modification times, to measure time, or just to print out the current date.
 
 ## Creation
